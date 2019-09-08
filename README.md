@@ -25,9 +25,6 @@
 <p>SEO dapat menjadi mahal jika Anda memilih perusahaan yang salah dan jika Anda terjebak ke dalam semua gimmicks, gadget, janji palsu, asap dan cermin. Sebagian besar orang pernah mendengar tentang PPC (bayar per klik), perdagangan tautan, AdWords, dan banyak produk SEO lain yang ada di luar sana. Jika Anda belum, cari tahu ketentuannya dan cari tahu apa yang mereka tentang. Ini akan menjadi istilah yang berguna bagi Anda untuk mengetahui ketika mencari perusahaan <a title="Ahli SEO Jakarta" href="https://seoexpert.co.id"><em>Ahli SEO</em></a> yang tepat. Produk-produk ini tidak buruk tetapi mereka bisa mahal dan, kemungkinan besar, jika Anda berada di bidang yang bahkan sedikit kompetitif, alat-alat ini benar-benar tidak akan membantu Anda. Ingat, lebih sering daripada tidak, pesaing Anda menggunakan alat yang sama ini.</p>
 <p>Untuk menemukan perusahaan SEO yang akan memberi Anda hasil yang Anda cari dan tidak dikenakan biaya "pertanian", Anda perlu mencari perusahaan berkualitas baik yang benar-benar mendengarkan dan memahami</p>
 <!--TEMPAT FLOATING ADS DISINI-->
-<script type='text/javascript'>
-        $(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#btm_banner&#39;).hide(90);});});
-</script>
         <!--start: floating ads-->
         <div id='floatads' style='width:100%;margin:auto; text-align:left;float:none;overflow:hidden; display:scroll;position:fixed; right:15px; bottom: 15px;z-index:9999'>
          <div style="text-align: right;">
