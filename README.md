@@ -4,7 +4,6 @@
   <head>
 <meta name="google-site-verification" content="quR34hpv9RobkeVx3yrM1oE0NstrbbxJ1xQehbpA7TY" />
     <meta charset="UTF-8">
-    <title>Pakar SEO Media - Mengapa SEO Sangat Penting Bagi Saya </title>
     <!-- The style.css file allows you to change the look of your web pages.
          If you include the next line in all your web pages, they will all share the same look.
          This makes it easier to make new pages for your site. -->
