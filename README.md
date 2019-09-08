@@ -31,7 +31,7 @@
         <!--start: floating ads-->
         <div id='floatads' style='width:100%;margin:auto; text-align:left;float:none;overflow:hidden; display:scroll;position:fixed; right:15px; bottom: 15px;z-index:9999'>
          <div style="text-align: right;">
-<a href="bit.ly/6281380582388"><img src="https://seomedia.co.id/images/WhatsApp_icon.png" /></a>
+<a href="http://bit.ly/6281380582388"><img src="https://seomedia.co.id/images/WhatsApp_icon.png" /></a>
 </div>
     <div style='text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto'>
   </body>
